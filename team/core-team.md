@@ -18,7 +18,7 @@ Chief Product Officer in crypto wallet investment company
 
 #### <mark style="color:purple;">Bin</mark>
 
-![Bin](../.gitbook/assets/Picture6.png)
+![](../.gitbook/assets/bin2.png)
 
 Team leader of Teenshop Top 5 Vietnam I.T talent 2010 (E-commerce)
 

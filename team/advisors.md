@@ -2,7 +2,7 @@
 
 #### <mark style="color:green;">Lan Pham</mark>
 
-![Lan Pham](../.gitbook/assets/Picture8.png)
+![](../.gitbook/assets/1635185711633.png)
 
 CPO at Space SIP
 
@@ -16,7 +16,7 @@ He decided to build Space SIP for NFT lover communities in 2021.
 
 #### <mark style="color:green;">Wolf Toshi</mark>
 
-![Wolf Toshi](../.gitbook/assets/Picture9.png)
+![](<../.gitbook/assets/dangdh (1).png>)
 
 Ph.D in International Economics (RAN)
 
