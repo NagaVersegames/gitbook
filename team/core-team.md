@@ -44,4 +44,62 @@ Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google
 
 ### <mark style="color:green;">Dev Team</mark>
 
-<mark style="color:green;"></mark>
+#### <mark style="color:blue;">Tony Nguyen</mark>
+
+GAME TECHNICAL LEAD
+
+15 years of experience in programming and operating
+
+Many years of experience in working as a Technical Leader for game projects
+
+#### <mark style="color:blue;">Xavier Pham</mark>
+
+PROJECT MANAGER
+
+14 years tech experience
+
+7 years experience as Project Manager (PM)
+
+8 years Head of Game Design
+
+#### <mark style="color:blue;">Jonson Luong</mark>
+
+8 years tech experience
+
+3 years of experience in Blockchain
+
+2 years of experience in SmartContract
+
+#### <mark style="color:blue;">Zoro Bui</mark>
+
+8 years tech experience in Backend Game
+
+4 years web, mobile
+
+#### <mark style="color:blue;">Andy Nguyen</mark>
+
+5 years of unity 3D programming
+
+3 years of mobile game programming
+
+#### <mark style="color:blue;">Jurgen Luong</mark>
+
+8 years of front end
+
+3 years of cocos creator
+
+2 years of unity 3D programming
+
+#### <mark style="color:blue;">Jame Phung</mark>
+
+8 years of front end
+
+2 years of cocos creator
+
+2 years of mobile game programming
+
+#### <mark style="color:blue;">Warren Nguyen</mark>
+
+8 years of front end
+
+2 years of mobile game programming
