@@ -1,6 +1,6 @@
 # Core team
 
-### <mark style="color:green;">Co-founder</mark>
+### <mark style="color:green;">Team lead</mark>
 
 #### <mark style="color:purple;">CK Fong</mark>
 
@@ -32,8 +32,6 @@ Advisor: Betting  market (M88.com; m8bets.net)
 
 Vietlott Level 1 General Agent
 
-### <mark style="color:green;">CTO</mark>
-
 #### <mark style="color:purple;">Morgan</mark>
 
 ![Morgan](../.gitbook/assets/Picture7.png)
@@ -43,3 +41,7 @@ Ebank VTC (Electronic Payment)
 Exchange Market for Stock Market (SHB – Local Bank Vietnam)
 
 Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google Play)
+
+### <mark style="color:green;">Dev Team</mark>
+
+<mark style="color:green;"></mark>
