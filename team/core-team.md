@@ -48,9 +48,9 @@ Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google
 
 #### <mark style="color:purple;">Cuong Nguyen - Head Marketing</mark>
 
-#### Trang To - Community Manager
+#### <mark style="color:purple;">Trang To - Community Manager</mark>
 
-#### KoiEz - Designer
+#### <mark style="color:purple;">KoiEz - Designer</mark>
 
 ### <mark style="color:green;">Dev Team</mark>
 
