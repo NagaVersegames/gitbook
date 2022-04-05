@@ -44,11 +44,19 @@ Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google
 
 #### <mark style="color:purple;">Yen Ta  - Coo</mark>
 
+![](../.gitbook/assets/yen2.png)
+
 #### <mark style="color:purple;">Van Pham - Product Owner</mark>
+
+![](../.gitbook/assets/avan1.png)
 
 #### <mark style="color:purple;">Cuong Nguyen - Head Marketing</mark>
 
+![](../.gitbook/assets/cuong1.png)
+
 #### <mark style="color:purple;">Trang To - Community Manager</mark>
+
+![](../.gitbook/assets/trang.png)
 
 #### <mark style="color:purple;">KoiEz - Designer</mark>
 
