@@ -1,6 +1,6 @@
 # Advisors
 
-#### <mark style="color:green;">Lan Pham</mark>
+### <mark style="color:green;">Lan Pham</mark>
 
 ![](../.gitbook/assets/1635185711633.png)
 
@@ -14,7 +14,7 @@ He decided to build Space SIP for NFT lover communities in 2021.
 
 [https://www.linkedin.com/in/gabriel-lanpham/](https://www.linkedin.com/in/gabriel-lanpham/)
 
-#### <mark style="color:green;">Wolf Toshi</mark>
+### <mark style="color:green;">Wolf Toshi</mark>
 
 ![](<../.gitbook/assets/dangdh (1).png>)
 
