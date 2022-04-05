@@ -42,11 +42,15 @@ Exchange Market for Stock Market (SHB – Local Bank Vietnam)
 
 Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google Play)
 
-#### <mark style="color:purple;">Yến Tạ  - Coo</mark>
+#### <mark style="color:purple;">Yen Ta  - Coo</mark>
 
-#### VAN PHAM - Product Owner
+#### <mark style="color:purple;">Van Pham - Product Owner</mark>
 
-<mark style="color:purple;"></mark>
+#### <mark style="color:purple;">Cuong Nguyen - Head Marketing</mark>
+
+#### Trang To - Community Manager
+
+#### KoiEz - Designer
 
 ### <mark style="color:green;">Dev Team</mark>
 
