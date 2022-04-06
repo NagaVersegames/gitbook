@@ -34,7 +34,7 @@ Vietlott Level 1 General Agent
 
 #### <mark style="color:purple;">Morgan</mark>
 
-![Morgan](../.gitbook/assets/Picture7.png)
+![](../.gitbook/assets/morgan.png)
 
 Ebank VTC (Electronic Payment)
 
