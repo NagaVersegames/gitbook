@@ -6,7 +6,7 @@
 
 1 – 30 April, 2022: Pri/Seed Round
 
-1– 20 May, 2022: IDO
+1 – 20 May, 2022: IDO
 
 ## <mark style="color:green;">Sale Price</mark>
 
