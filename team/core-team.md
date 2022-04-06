@@ -46,7 +46,7 @@ Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google
 
 ![Coo](../.gitbook/assets/yen2.png)
 
-#### <mark style="color:purple;">Van Pham - Product Owner</mark>
+#### <mark style="color:purple;">Xavier Pham - Product Owner</mark>
 
 ![Product Owner](../.gitbook/assets/avan1.png)
 
@@ -70,7 +70,7 @@ Many years of experience in working as a Technical Leader for game projects
 
 #### <mark style="color:blue;">Xavier Pham</mark>
 
-PROJECT MANAGER
+PROJECT OWNER
 
 14 years tech experience
 
