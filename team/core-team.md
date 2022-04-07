@@ -30,9 +30,11 @@
 
 
 
-* Ebank VTC (Electronic Payment)
-* Exchange Market for Stock Market (SHB – Local Bank Vietnam)
-* Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google Play)
+* 18 years experience in graphic designing
+* 15 years experience in game designing
+* 08 years experience in building stock market platforms
+* 05 years experience in project management
+* 05 years participating in investment projects
 
 #### <mark style="color:purple;">Yen Ta  - Coo</mark>
 
