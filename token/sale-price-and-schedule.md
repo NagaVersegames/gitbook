@@ -10,6 +10,4 @@
 
 ## <mark style="color:green;">Sale Price</mark>
 
-![](<../.gitbook/assets/price (2).png>)
-
-<mark style="color:green;"></mark>
+![](<../.gitbook/assets/price (1).png>)
