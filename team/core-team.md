@@ -2,11 +2,9 @@
 
 ### <mark style="color:green;">Team lead</mark>
 
-#### <mark style="color:purple;">Bin</mark>
+#### <mark style="color:purple;">Bin - Co-founder</mark>
 
-![](../.gitbook/assets/bin.png)
-
-
+![Co-founder](../.gitbook/assets/bin.png)
 
 * Team leader of Teenshop Top 5 Vietnam I.T talent 2010 (E-commerce)
 * Betting liquidity pool developer, 10 years+ experience
@@ -14,13 +12,9 @@
 * 6+ years in Crypto Mining, Trading
 * Vietlott Level 1 General Agent
 
+#### <mark style="color:purple;">CK Fong - Co-founder</mark>
 
-
-<mark style="color:green;"></mark>
-
-#### <mark style="color:purple;">CK Fong</mark>
-
-![](../.gitbook/assets/Picture5.png)
+![Co-founder](../.gitbook/assets/Picture5.png)
 
 * Graduated from Temasek Polytechnic with Diploma of Telecommunication Engineering (2008)
 * 8 years in Military Security Products and Testing for Singapore Technologies Engineering as Testing Engineer
@@ -28,9 +22,9 @@
 * 5+ years experience in Crypto projects and trading algorithm bots
 * Chief Product Officer in crypto wallet investment company
 
-#### <mark style="color:purple;">Morgan</mark>
+#### <mark style="color:purple;">Morgan - CTO</mark>
 
-![](../.gitbook/assets/morgan.png)
+![CTO](../.gitbook/assets/morgan.png)
 
 
 
@@ -40,9 +34,9 @@
 * 05 years experience in project management
 * 05 years participating in investment projects
 
-#### <mark style="color:purple;">Yen Ta  - Coo</mark>
+#### <mark style="color:purple;">Yen Ta  - COO</mark>
 
-![Coo](../.gitbook/assets/yen2.png)
+![COO](../.gitbook/assets/yen2.png)
 
 
 
@@ -54,12 +48,6 @@
 #### <mark style="color:purple;">Xavier Pham - Product Owner</mark>
 
 ![Product Owner](../.gitbook/assets/avan1.png)
-
-
-
-
-
-
 
 * 14 years tech experience
 * 7 years experience as Project Manager (PM)
@@ -75,16 +63,12 @@
 
 ![Head Marketing](../.gitbook/assets/cuong1.png)
 
-
-
 * &#x20;7 years in marketing mmo
 * 5 years mining and trading in crypto
 
 #### <mark style="color:purple;">Trang To - Community Manager</mark>
 
 ![Community Manager](../.gitbook/assets/trang.png)
-
-
 
 * 1st class honours Law graduate at one of London’s top universities Distinction post-graduate and Master of Law, Business and Management
 * 3 years trading in CFD, Commodity, Stock market and Crypto
