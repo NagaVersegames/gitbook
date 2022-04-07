@@ -78,6 +78,11 @@
 
 ![Community Manager](../.gitbook/assets/trang.png)
 
+
+
+* 1st class honours Law graduate at one of London’s top universities Distinction post-graduate and Master of Law, Business and Management
+* 3 years trading in CFD, Commodity, Stock market and Crypto
+
 ### <mark style="color:green;">Dev Team</mark>
 
 #### <mark style="color:blue;">Tony Nguyen</mark>
