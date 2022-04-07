@@ -4,55 +4,61 @@
 
 #### <mark style="color:purple;">CK Fong</mark>
 
-![CK Fong](../.gitbook/assets/Picture5.png)
+![](../.gitbook/assets/Picture5.png)
 
-Graduated from Temasek Polytechnic with Diploma of Telecommunication Engineering (2008)
-
-8 years in Military Security Products and Testing for Singapore Technologies Engineering as Testing Engineer
-
-Advisory team for Online gaming security in Cambodia and Indonesia for 2 years
-
-5+ years experience in Crypto projects and trading algorithm bots
-
-Chief Product Officer in crypto wallet investment company
+* Graduated from Temasek Polytechnic with Diploma of Telecommunication Engineering (2008)
+* 8 years in Military Security Products and Testing for Singapore Technologies Engineering as Testing Engineer
+* Advisory team for Online gaming security in Cambodia and Indonesia for 2 years
+* 5+ years experience in Crypto projects and trading algorithm bots
+* Chief Product Officer in crypto wallet investment company
 
 #### <mark style="color:purple;">Bin</mark>
 
 ![](../.gitbook/assets/bin.png)
 
-Team leader of Teenshop Top 5 Vietnam I.T talent 2010 (E-commerce)
 
-Betting liquidity pool developer, 10 years+ experience
 
-Experienced with developing Casino products. Worked with Ezugi, top 5 casino in the world.
-
-Advisor: Betting  market (M88.com; m8bets.net)
-
-6+ years in Crypto Mining, Trading
-
-Vietlott Level 1 General Agent
+* Team leader of Teenshop Top 5 Vietnam I.T talent 2010 (E-commerce)
+* Betting liquidity pool developer, 10 years+ experience
+* Experienced with developing Casino products. Worked with Ezugi, top 5 casino in the world.
+* 6+ years in Crypto Mining, Trading
+* Vietlott Level 1 General Agent
 
 #### <mark style="color:purple;">Morgan</mark>
 
 ![](../.gitbook/assets/morgan.png)
 
-Ebank VTC (Electronic Payment)
 
-Exchange Market for Stock Market (SHB – Local Bank Vietnam)
 
-Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google Play)
+* Ebank VTC (Electronic Payment)
+* Exchange Market for Stock Market (SHB – Local Bank Vietnam)
+* Outsource developer for “Idle Miner Tycoon”: Gold Rush (Apple Store & Google Play)
 
 #### <mark style="color:purple;">Yen Ta  - Coo</mark>
 
 ![Coo](../.gitbook/assets/yen2.png)
 
+
+
+* 11+ years of experience in managing projects funded by US, UK, and Korea governments.
+* Experienced in project design, budget management, results-based reporting, and leading team.
+* &#x20;Skilled and experienced in building and maintaining strong partnerships.
+* High level of integrity, efficiency, enthusiasm, and excellent skills in communication, problem-solving, and staff management.
+
 #### <mark style="color:purple;">Xavier Pham - Product Owner</mark>
 
 ![Product Owner](../.gitbook/assets/avan1.png)
 
+
+
 #### <mark style="color:purple;">Cuong Nguyen - Head Marketing</mark>
 
 ![Head Marketing](../.gitbook/assets/cuong1.png)
+
+
+
+* &#x20;7 years in marketing mmo
+* 5 years mining and trading in crypto
 
 #### <mark style="color:purple;">Trang To - Community Manager</mark>
 
