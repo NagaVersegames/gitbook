@@ -51,6 +51,20 @@
 
 
 
+
+
+
+
+* 14 years tech experience
+* 7 years experience as Project Manager (PM)
+* 8 years Head of Game Design
+* Participated in projects: Crossfire Vietnam, Audition, World of Tanks...
+*   5 years in research and development experience
+
+
+
+
+
 #### <mark style="color:purple;">Cuong Nguyen - Head Marketing</mark>
 
 ![Head Marketing](../.gitbook/assets/cuong1.png)
