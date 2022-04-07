@@ -2,16 +2,6 @@
 
 ### <mark style="color:green;">Team lead</mark>
 
-#### <mark style="color:purple;">CK Fong</mark>
-
-![](../.gitbook/assets/Picture5.png)
-
-* Graduated from Temasek Polytechnic with Diploma of Telecommunication Engineering (2008)
-* 8 years in Military Security Products and Testing for Singapore Technologies Engineering as Testing Engineer
-* Advisory team for Online gaming security in Cambodia and Indonesia for 2 years
-* 5+ years experience in Crypto projects and trading algorithm bots
-* Chief Product Officer in crypto wallet investment company
-
 #### <mark style="color:purple;">Bin</mark>
 
 ![](../.gitbook/assets/bin.png)
@@ -23,6 +13,20 @@
 * Experienced with developing Casino products. Worked with Ezugi, top 5 casino in the world.
 * 6+ years in Crypto Mining, Trading
 * Vietlott Level 1 General Agent
+
+
+
+<mark style="color:green;"></mark>
+
+#### <mark style="color:purple;">CK Fong</mark>
+
+![](../.gitbook/assets/Picture5.png)
+
+* Graduated from Temasek Polytechnic with Diploma of Telecommunication Engineering (2008)
+* 8 years in Military Security Products and Testing for Singapore Technologies Engineering as Testing Engineer
+* Advisory team for Online gaming security in Cambodia and Indonesia for 2 years
+* 5+ years experience in Crypto projects and trading algorithm bots
+* Chief Product Officer in crypto wallet investment company
 
 #### <mark style="color:purple;">Morgan</mark>
 
