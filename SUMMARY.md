@@ -13,13 +13,15 @@
 * [Problem](metaverse/problem.md)
 * [Solution](metaverse/solution.md)
 
-## GAME MODE
+## GAME PLAY
 
-* [Game play](game-mode/game-play.md)
-* [Hunt Mode](game-mode/hunt-mode.md)
-* [Adventure Mode](game-mode/adventure-mode.md)
-* [Battle Royale Mode](game-mode/battle-royale-mode.md)
-* [Game Item](game-mode/game-item.md)
+* [Introduce](game-play/introduce.md)
+* [How to start](game-play/how-to-start.md)
+* [Hunt Mode](game-play/hunt-mode.md)
+* [Adventure Mode](game-play/adventure-mode.md)
+* [Battle Royale Mode](game-play/battle-royale-mode.md)
+* [Snake Heroes](game-play/snake-heroes.md)
+* [Gem](game-play/gem.md)
 
 ## TOKEN
 
