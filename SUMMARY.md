@@ -5,6 +5,7 @@
 * [Scenario](README.md)
 * [The Snakes](introduce/the-snakes.md)
 * [Road Map](introduce/road-map.md)
+* [Social Channels](introduce/social-channels.md)
 
 ## METAVERSE
 
