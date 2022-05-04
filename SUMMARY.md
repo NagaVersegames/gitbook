@@ -11,11 +11,11 @@
 
 * [Introduce](game-play/introduce.md)
 * [How to start](game-play/how-to-start.md)
+* [Snake Heroes](game-play/snake-heroes.md)
+* [Gem](game-play/gem.md)
 * [Hunt Mode](game-play/hunt-mode.md)
 * [Adventure Mode](game-play/adventure-mode.md)
 * [Battle Royale Mode](game-play/battle-royale-mode.md)
-* [Snake Heroes](game-play/snake-heroes.md)
-* [Gem](game-play/gem.md)
 
 ## METAVERSE
 
