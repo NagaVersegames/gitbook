@@ -22,7 +22,17 @@
 
 ## <mark style="color:green;">**How To Start**</mark>
 
-<mark style="color:green;">****</mark>
+🔆 <mark style="color:green;">****</mark> Buy yourself strong snakes in the shop
+
+![](<../.gitbook/assets/Screenshot 2022-05-03 231204 (1).png>)
+
+🔆 Arrange a matching snake lineup of 5 snakes
+
+![](<../.gitbook/assets/Screenshot 2022-05-03 224232.png>)
+
+🔆 And the snakes began to hunt
+
+![](<../.gitbook/assets/Screenshot 2022-05-03 223853.png>)
 
 To start the game, players need to buy snakes by opening the RANDOM BOX. The snakes in the BOX are divided into 6 types with increasing rarity.
 
