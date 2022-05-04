@@ -1,6 +1,6 @@
 # Opportunity
 
-![](../.gitbook/assets/Picture1.png)
+![](<../.gitbook/assets/Picture1 (1).png>)
 
 &#x20;                    4.88 billion internet users 2.95 billion gamers (Datareportal & Statista).
 

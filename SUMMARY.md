@@ -9,7 +9,6 @@
 
 ## GAME PLAY
 
-* [Introduce](game-play/introduce.md)
 * [How to start](game-play/how-to-start.md)
 * [Snake Heroes](game-play/snake-heroes.md)
 * [Gem](game-play/gem.md)
