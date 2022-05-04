@@ -34,6 +34,6 @@
 
 ![](<../.gitbook/assets/Screenshot 2022-05-03 223853.png>)
 
-To start the game, players need to buy snakes by opening the RANDOM BOX. The snakes in the BOX are divided into 6 types with increasing rarity.
+#### 🎬 <mark style="color:blue;">Video tutoria</mark>l
 
 {% embed url="https://www.youtube.com/watch?v=Wl8l1F6H2ZY" %}
