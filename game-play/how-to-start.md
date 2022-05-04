@@ -30,4 +30,4 @@
 
 #### 🎬 <mark style="color:blue;">Video tutorial:</mark>
 
-{% embed url="https://www.youtube.com/watch?v=Wl8l1F6H2ZY" %}
+{% embed url="https://youtu.be/U-bZqXKLiak" %}
