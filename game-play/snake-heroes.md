@@ -22,6 +22,8 @@ Level 1: Common&#x20;
 
 💥Stats can be improved by combining 2 snakes of the same Level
 
+![](../.gitbook/assets/photo\_2022-04-25\_01-27-39.jpg)
+
 ### <mark style="color:blue;">Viper</mark>
 
 Level 2: Rare&#x20;
@@ -56,7 +58,7 @@ Level 4: Epic&#x20;
 
 💥Stats can be improved by combining 2 snakes of the same Level
 
-![](../.gitbook/assets/photo\_2022-04-25\_01-27-39.jpg)
+![](<../.gitbook/assets/photo\_2022-04-25\_01-27-39 (1).jpg>)
 
 ### Anaconda&#x20;
 
