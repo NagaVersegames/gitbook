@@ -7,12 +7,6 @@
 * [Road Map](introduce/road-map.md)
 * [Social Channels](introduce/social-channels.md)
 
-## METAVERSE
-
-* [Opportunity](metaverse/opportunity.md)
-* [Problem](metaverse/problem.md)
-* [Solution](metaverse/solution.md)
-
 ## GAME PLAY
 
 * [Introduce](game-play/introduce.md)
@@ -22,6 +16,12 @@
 * [Battle Royale Mode](game-play/battle-royale-mode.md)
 * [Snake Heroes](game-play/snake-heroes.md)
 * [Gem](game-play/gem.md)
+
+## METAVERSE
+
+* [Opportunity](metaverse/opportunity.md)
+* [Problem](metaverse/problem.md)
+* [Solution](metaverse/solution.md)
 
 ## TOKEN
 
