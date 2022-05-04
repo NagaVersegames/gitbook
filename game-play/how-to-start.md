@@ -34,6 +34,6 @@
 
 ![](<../.gitbook/assets/Screenshot 2022-05-03 223853.png>)
 
-#### 🎬 <mark style="color:blue;">Video tutoria</mark>l
+#### 🎬 <mark style="color:blue;">Video tutoria</mark>l:
 
 {% embed url="https://www.youtube.com/watch?v=Wl8l1F6H2ZY" %}
