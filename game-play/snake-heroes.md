@@ -36,7 +36,7 @@ Level 2: Rare&#x20;
 
 ![](../.gitbook/assets/photo\_2022-04-21\_22-46-03.jpg)
 
-### Cobra
+### <mark style="color:blue;">Cobra</mark>
 
 Level 3: Super Rare
 
@@ -48,7 +48,7 @@ Level 3: Super Rare
 
 ![](../.gitbook/assets/photo\_2022-04-22\_01-55-11.jpg)
 
-### King Cobra
+### <mark style="color:blue;">King Cobra</mark>
 
 Level 4: Epic&#x20;
 
@@ -60,7 +60,7 @@ Level 4: Epic&#x20;
 
 ![](<../.gitbook/assets/photo\_2022-04-25\_01-27-39 (1).jpg>)
 
-### Anaconda&#x20;
+### <mark style="color:blue;">Anaconda</mark>&#x20;
 
 Level 5: Legend&#x20;
 
@@ -72,7 +72,7 @@ Level 5: Legend&#x20;
 
 ![](../.gitbook/assets/photo\_2022-04-26\_23-09-27.jpg)
 
-### Naga&#x20;
+### <mark style="color:blue;">Naga</mark>&#x20;
 
 Level 6: Super Legend&#x20;
 
