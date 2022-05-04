@@ -2,15 +2,15 @@
 
 ## <mark style="color:green;">**I**</mark><mark style="color:green;">ntroduce</mark>
 
-📣 Category: cross-platform webgames
+📣 Category: cross-platform web-based game&#x20;
 
-📣 Origin: self-developed product of IPICorp&#x20;
+📣 Origin: self-developed product of IPI Corp&#x20;
 
-📣 Content: manage snakes (Heroes characters) and participate in game features, thereby seeking additional income.
+📣 Content: obtain and manage snakes (NFT) and participate in different game modes and battles, earning rewards according to your performance that can be exchanged for NAGA tokens.&#x20;
 
-📣NAGA has all the basic features of a game product such as: Player Information, Chatbox, mailbox, Rankings, honors, Various game modes F2P, P2E, PVP, RAID, MARKETPLACE...&#x20;
+📣The Chronicle of Naga has all the basic features of a usual game: Player profile, Chatbox, Mailbox, Rankings, Honors, Various game modes (F2P, P2E, PVP, Boss Raid), Shop and Marketplace, …&#x20;
 
-📣Thereby enhancing the interaction and competition among players to develop the in-game community.
+📣With the chat functions, the game aims to enhance the interaction and competition among players to develop the in-game community.
 
 ![Chatbox, mailbox](<../.gitbook/assets/Screenshot 2022-05-03 225633.png>)
 
@@ -22,18 +22,12 @@
 
 ## <mark style="color:green;">**How To Start**</mark>
 
-🔆 <mark style="color:green;">****</mark> Buy yourself strong snakes in the shop
+🔆 Obtain NAGA token and exchange to NIT, the in-game token of The Chronicle of Naga&#x20;
+
+🔆 Use NIT to open snake box and generate a snake of random rarity per box.
 
 ![](<../.gitbook/assets/Screenshot 2022-05-03 231204 (1).png>)
 
-🔆 Arrange a matching snake lineup of 5 snakes
-
-![](<../.gitbook/assets/Screenshot 2022-05-03 224232.png>)
-
-🔆 And the snakes began to hunt
-
-![](<../.gitbook/assets/Screenshot 2022-05-03 223853.png>)
-
-#### 🎬 <mark style="color:blue;">Video tutoria</mark>l:
+#### 🎬 <mark style="color:blue;">Video tutorial:</mark>
 
 {% embed url="https://www.youtube.com/watch?v=Wl8l1F6H2ZY" %}
