@@ -22,7 +22,7 @@ Level 1: Common&#x20;
 
 💥Stats can be improved by combining 2 snakes of the same Level
 
-![](../.gitbook/assets/photo\_2022-04-25\_01-27-39.jpg)
+![](<../.gitbook/assets/photo\_2022-05-03\_22-00-17 (1).jpg>)
 
 ### <mark style="color:blue;">Viper</mark>
 
