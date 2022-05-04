@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/photo\_2022-04-11\_03-03-24.jpg)
 
-Snake (Heroes Character)&#x20;
+🐍 Snake (Heroes Character)&#x20;
 
 💥 In The Chronicle of Naga, snakes play an important role in forming our gameplay.&#x20;
 
