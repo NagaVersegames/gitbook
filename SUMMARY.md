@@ -12,6 +12,7 @@
 * [How to start](game-play/how-to-start.md)
 * [Snake Heroes](game-play/snake-heroes.md)
 * [Gem](game-play/gem.md)
+* [House](game-play/house.md)
 * [Hunt Mode](game-play/hunt-mode.md)
 * [Adventure Mode](game-play/adventure-mode.md)
 * [Battle Royale Mode](game-play/battle-royale-mode.md)
