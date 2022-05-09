@@ -6,7 +6,7 @@ Compete against players worldwide on our daily, weekly and monthly highscore boa
 
 ![Join now Naga game.](../.gitbook/assets/1.png)
 
-💥Tutorial💥&#x20;
+💥TUTORIAL:💥&#x20;
 
 👉This mode allows you to play freely while earning rewards.&#x20;
 
