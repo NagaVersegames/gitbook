@@ -17,3 +17,5 @@ Compete against players worldwide on our daily, weekly and monthly highscore boa
 👉When the SNAKE hits a wall, a rock, or the player quits the game, the game is over.&#x20;
 
 👉If a player's score is greater than 200, they will be rewarded. More tickets can be obtained at the Shop or Events.
+
+![](../.gitbook/assets/photo\_2022-05-08\_03-00-18.jpg)
