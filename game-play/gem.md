@@ -12,6 +12,3 @@
 
 💎 Can equip duplicate GEM and effects will be stacked.
 
-
-
-![Gem parameters](<../.gitbook/assets/Screenshot 2022-05-03 233442 (1).png>)
