@@ -1,6 +1,6 @@
 # Social Channels
 
-🔰 **Website:** [**https://naga.versegames.io/**](https://naga.versegames.io)****
+🔰 **Website:** [**https://naga.versegames.io/**](https://naga.versegames.io/)****
 
 🔰 **Telegram Public Group:**  [**https://t.me/NagaVersegamesOfficial**](https://t.me/NagaVersegamesOfficial)****
 
